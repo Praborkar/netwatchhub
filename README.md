@@ -100,4 +100,4 @@ Open a Pull Request.
 That’s it! Sit back and relax while your PR gets reviewed 🎉.
 <p align="center"><img width="50%" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
 👨‍💻 Project Admin
-<p align="center"> <img width="50%" src="https://i.postimg.cc/qBmW9QyM/profile.gif"> </p> <a href="https://www.linkedin.com/in/your-linkedin-profile/"> <h5 align="center"><b>Your Name</b></a>
+<p align="center"> <img width="50%" src="https://i.postimg.cc/qBmW9QyM/profile.gif"> </p> <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/prabor-kar-061447261/)"> <h5 align="center"><b>prabor_kar</b></a>
